@@ -26,7 +26,7 @@ async function selectPwordLength() {
     type: "select",
     name: "length",
     message: "Select a password length",
-    choices: ["8", "12", "24"],
+    choices: ["8", "16", "24", "32", "48"],
   });
   return answers.length;
 }
