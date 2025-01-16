@@ -1,6 +1,9 @@
 # credential-generator
 
-A Node.js CLI tool that generates a strong random password based on user chosen requirements (1. Length of the Password 2. Whether to include special characters).
+A Node.js CLI tool that generates a strong random password based on user chosen requirements:
+
+1. Length of the Password.
+2. Whether to include special characters.
 
 ## Features
 
